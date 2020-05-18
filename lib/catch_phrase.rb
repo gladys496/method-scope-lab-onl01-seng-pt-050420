@@ -5,4 +5,4 @@ def catch_phrase(phrase)
   
 end
 
-catch_phrase()
+catch_phrase(phrase)
