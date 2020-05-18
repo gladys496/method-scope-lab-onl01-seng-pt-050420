@@ -1,4 +1,4 @@
-catch_phrase = "Mario"
+phrase = "Mario"
 
 def catch_phrase(phrase)
   puts phrase
