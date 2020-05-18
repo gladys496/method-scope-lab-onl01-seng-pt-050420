@@ -1,5 +1,5 @@
 def catch_phrase(phrase)
-  puts 
+  puts phrase
   
 end
 
